@@ -6,6 +6,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 Older releases are preserved in the [changelog archive](docs/changelog-archive.md).
 
+## [3.26.0](https://github.com/hashgraph-online/hol-guard/compare/v3.25.2...v3.26.0) (2026-10-05)
+
+
+### Features
+
+* **extensions:** give command.faf-cli a catalog icon ([#3591](https://github.com/hashgraph-online/hol-guard/issues/3591)) ([c4b7ac2](https://github.com/hashgraph-online/hol-guard/commit/c4b7ac215543d18987b2f72c1b1875ea7ff4a7bb))
+* **mcp:** support tightening-only native server contributions ([#3578](https://github.com/hashgraph-online/hol-guard/issues/3578)) ([06ea3ee](https://github.com/hashgraph-online/hol-guard/commit/06ea3ee6f47f99ac348dee621408ffab43ea0511))
+
+
+### Bug Fixes
+
+* **ci:** resolve Sonar reliability regressions ([#3587](https://github.com/hashgraph-online/hol-guard/issues/3587)) ([5af2ac7](https://github.com/hashgraph-online/hol-guard/commit/5af2ac7babb0c6d5dd599885278e0d0226546cf4))
+
 ## [3.25.2](https://github.com/hashgraph-online/hol-guard/compare/v3.25.1...v3.25.2) (2026-10-05)
 
 
